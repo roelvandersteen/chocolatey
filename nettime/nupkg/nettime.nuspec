@@ -6,7 +6,7 @@
     <title>NetTime</title>
     <authors>Mark Griffiths</authors>
     <owners>Roel van der Steen</owners>
-    <licenceUrl>https://cdn.rawgit.com/roelvandersteen/chocolatey/master/nettime/bsd-license.html</licenceUrl>
+    <licenseUrl>https://cdn.rawgit.com/roelvandersteen/chocolatey/master/nettime/bsd-license.html</licenseUrl>
     <projectUrl>http://www.timesynctool.com/</projectUrl>
     <iconUrl>https://cdn.rawgit.com/roelvandersteen/chocolatey/master/nettime/nettime.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
