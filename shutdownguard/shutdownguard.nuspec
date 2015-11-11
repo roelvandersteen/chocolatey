@@ -3,7 +3,7 @@
   <metadata>
     <id>shutdownguard</id>
     <title>ShutdownGuard</title>
-    <version>1.0</version>
+    <version>1.0.0.20150211</version>
     <authors>Stefan Sundin</authors>
     <owners>Roel van der Steen</owners>
     <summary>Prevent Windows from shutting down</summary>
