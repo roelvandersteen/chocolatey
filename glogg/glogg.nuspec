@@ -3,7 +3,7 @@
   <metadata>
     <id>glogg</id>
     <title>glogg</title>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <authors>Nicolas Bonnefon</authors>
     <owners>Roel van der Steen</owners>
     <summary>The fast, smart log explorer</summary>
