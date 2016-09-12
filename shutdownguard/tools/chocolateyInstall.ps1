@@ -1,6 +1,6 @@
-﻿$packageName = 'shutdownguard'
+$packageName = 'shutdownguard'
 $installerType = 'exe'
-$url = 'http://shutdownguard.googlecode.com/files/ShutdownGuard-1.0.exe'
+$url = 'https://github.com/stefansundin/shutdownguard/releases/download/v1.0/ShutdownGuard-1.0.exe'
 $silentArgs = '/S'
 $validExitCodes = @(0)
 

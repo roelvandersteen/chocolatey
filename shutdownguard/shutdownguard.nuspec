@@ -3,7 +3,7 @@
   <metadata>
     <id>shutdownguard</id>
     <title>ShutdownGuard</title>
-    <version>1.0.0.20150211</version>
+    <version>1.0.0.20160912</version>
     <authors>Stefan Sundin</authors>
     <owners>Roel van der Steen</owners>
     <summary>Prevent Windows from shutting down</summary>
@@ -13,6 +13,6 @@
     <copyright>GNU GPL v3</copyright>
     <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://code.google.com/p/shutdownguard/logo</iconUrl>
+    <iconUrl>https://github.com/stefansundin/shutdownguard/raw/master/media/lock.png</iconUrl>
   </metadata>
 </package>
