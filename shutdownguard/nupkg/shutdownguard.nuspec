@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>shutdownguard</id>
+    <version>1.0.0.20160912</version>
+    <owners>Roel van der Steen</owners>
+    <title>ShutdownGuard</title>
+    <authors>Stefan Sundin</authors>
+    <projectUrl>https://github.com/stefansundin/shutdownguard</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/roelvandersteen/chocolatey/master/shutdownguard/shutdownguard.png</iconUrl>
+    <copyright>GNU GPL v3</copyright>
+    <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>shutdownguard admin prevent shutdown utility</tags>
+    <summary>Prevent Windows from shutting down</summary>
+    <description>ShutdownGuard tries to prevents applications to shutdown, reboot or log off your computer. When it prevents a shutdown in Windows XP, it will pop up in the tray and ask you if you want to continue. In Vista and Windows 7, you will see another dialog.</description>
+  </metadata>
+</package>
