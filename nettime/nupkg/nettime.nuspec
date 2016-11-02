@@ -2,17 +2,17 @@
 <package>
   <metadata>
     <id>nettime</id>
-    <version>3.14</version>
+    <version>3.14.20161102</version>
+    <owners>Roel van der Steen</owners>
     <title>NetTime</title>
     <authors>Mark Griffiths</authors>
-    <owners>Roel van der Steen</owners>
-    <licenseUrl>https://cdn.rawgit.com/roelvandersteen/chocolatey/master/nettime/bsd-license.html</licenseUrl>
     <projectUrl>http://www.timesynctool.com/</projectUrl>
     <iconUrl>https://cdn.rawgit.com/roelvandersteen/chocolatey/master/nettime/nettime.png</iconUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>NetTime is a Simple Network Time Protocol (SNTP) client for Windows 95/98/Me/NT/2000/XP/Vista/7/8 and Server 2003/2008/2012. (32 bit and 64 bit operating systems are both supported) If you're looking for a program to keep your system time accurate, you've just found it!</description>
-    <summary>NetTime is a Simple Network Time Protocol (SNTP) client</summary>
     <copyright>© 1997, 2000 Graham Mainwaring, © 2011, 2012 Mark Griffiths</copyright>
-    <tags>net time timesynctool ntp sntp client</tags>
+    <licenseUrl>https://cdn.rawgit.com/roelvandersteen/chocolatey/master/nettime/bsd-license.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>net time timesynctool ntp sntp client admin</tags>
+    <summary>NetTime is a Simple Network Time Protocol (SNTP) client</summary>
+    <description>NetTime is a Simple Network Time Protocol (SNTP) client for Windows 95/98/Me/NT/2000/XP/Vista/7/8 and Server 2003/2008/2012. (32 bit and 64 bit operating systems are both supported) If you're looking for a program to keep your system time accurate, you've just found it!</description>
   </metadata>
 </package>
