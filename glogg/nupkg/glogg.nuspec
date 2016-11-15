@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>glogg</id>
+    <version>1.1.2</version>
+    <owners>Roel van der Steen</owners>
+    <title>glogg - the fast, smart log explorer</title>
+    <authors>Nicolas Bonnefon</authors>
+    <projectUrl>http://glogg.bonnefon.org/</projectUrl>
+    <iconUrl>http://glogg.bonnefon.org/images/glogg.png</iconUrl>
+    <copyright>Copyright © 2015 Nicolas Bonnefon</copyright>
+    <licenseUrl>http://glogg.bonnefon.org/legal.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>log tail grep glogg admin</tags>
+    <summary>The fast, smart log explorer</summary>
+    <description>glogg is a multi-platform GUI application to browse and search through long or complex log files. It is designed with programmers and system administrators in mind. glogg can be seen as a graphical, interactive combination of grep and less.</description>
+    <releaseNotes>https://github.com/nickbnf/glogg/commits/master</releaseNotes>
+    <packageSourceUrl>https://github.com/roelvandersteen/chocolatey/tree/master/glogg</packageSourceUrl>
+  </metadata>
+</package>
