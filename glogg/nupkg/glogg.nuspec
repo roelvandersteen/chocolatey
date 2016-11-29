@@ -13,7 +13,9 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>log tail grep glogg admin</tags>
     <summary>The fast, smart log explorer</summary>
-    <description>glogg is a multi-platform GUI application to browse and search through long or complex log files. It is designed with programmers and system administrators in mind. glogg can be seen as a graphical, interactive combination of grep and less.</description>
+    <description>glogg is a multi-platform GUI application to browse and search through long or complex log files. It is designed with programmers and system administrators in mind. glogg can be seen as a graphical, interactive combination of grep and less.
+
+This installer contains only the 64-bits version. For x86 installs, v1.0.3 is the last supported package.</description>
     <releaseNotes>https://github.com/nickbnf/glogg/commits/master</releaseNotes>
     <packageSourceUrl>https://github.com/roelvandersteen/chocolatey/tree/master/glogg</packageSourceUrl>
   </metadata>
