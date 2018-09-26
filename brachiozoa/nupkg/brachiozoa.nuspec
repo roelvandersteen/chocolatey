@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>brachiozoa</id>
+    <version>0.2.5</version>
+    <title>Brachiozoa (container package for basic server packages)</title>
+    <authors>roel</authors>
+    <owners>roel</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>-   7zip
+-   7zip.portable
+-   bleachbit
+-   dotnet4.5.2
+-   dotnet4.6.2
+-   dotnet4.7.1
+-   filezilla
+-   googlechrome
+-   logexpert
+-   powershell
+-   putty
+-   sublimetext3
+-   sumatrapdf
+-   webpicmd
+-   windirstat</description>
+    <summary />
+    <releaseNotes />
+    <copyright />
+    <tags>brachiozoa admin</tags>
+    <dependencies>
+      <dependency id="7zip" version="18.4" />
+      <dependency id="7zip.portable" version="18.4" />
+      <dependency id="bleachbit" version="2.0" />
+      <dependency id="dotnet4.5.2" version="4.5" />
+      <dependency id="dotnet4.6.2" version="4.6" />
+      <dependency id="dotnet4.7.1" version="4.7" />
+      <dependency id="filezilla" version="3.36" />
+      <dependency id="googlechrome" version="69.0" />
+      <dependency id="logexpert" version="1.6" />
+      <dependency id="powershell" version="5.1" />
+      <dependency id="putty" version="0.70" />
+      <dependency id="sublimetext3" version="3.1" />
+      <dependency id="sumatrapdf" version="3.1" />
+      <dependency id="webpicmd" version="7.1" />
+      <dependency id="windirstat" version="1.1.2" />
+    </dependencies>
+  </metadata>
+</package>
