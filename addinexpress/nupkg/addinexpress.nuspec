@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>addinexpress</id>
+    <version>9.1.4620</version>
+    <authors>Add-in Express Ltd</authors>
+    <title>Add-in Express (Install)</title>
+    <tags>addinexpress build</tags>
+    <summary>Add-in Express installation for build servers</summary>
+    <description>Add-in Express installation for build servers</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
