@@ -3,7 +3,7 @@
 # Remove annoying shortcuts from Desktop
 $desktop1 = [Environment]::GetFolderPath("Desktop")
 $desktop2 = [Environment]::GetFolderPath("CommonDesktopDirectory")
-$links = @("CCleaner.lnk", "Google Chrome.lnk", "WinDirStat.lnk") | %{ [System.IO.Path]::Combine($desktop1, $_); [System.IO.Path]::Combine($desktop2, $_); }
+$links = @("Bleachbit.lnk", "CCleaner.lnk", "Google Chrome.lnk", "WinDirStat.lnk") | %{ [System.IO.Path]::Combine($desktop1, $_); [System.IO.Path]::Combine($desktop2, $_); }
 $links | %{ if (Test-Path $_) { Remove-Item $_ } }
 
 if (Test-Path "C:\Program Files\CCleaner\uninst.exe") { [System.Diagnostics.Process]::Start("C:\Program Files\CCleaner\uninst.exe", "/S") }

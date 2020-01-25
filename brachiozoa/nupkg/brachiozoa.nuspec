@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>brachiozoa</id>
-    <version>0.2.5</version>
+    <version>0.2.7</version>
     <title>Brachiozoa (container package for basic server packages)</title>
     <authors>roel</authors>
     <owners>roel</owners>
@@ -12,10 +12,12 @@
 -   bleachbit
 -   dotnet4.5.2
 -   dotnet4.6.2
--   dotnet4.7.1
+-   dotnet4.7.2
+-   dotnetfx
 -   filezilla
 -   googlechrome
 -   logexpert
+-   portqry
 -   powershell
 -   putty
 -   sublimetext3
@@ -32,10 +34,12 @@
       <dependency id="bleachbit" version="2.0" />
       <dependency id="dotnet4.5.2" version="4.5" />
       <dependency id="dotnet4.6.2" version="4.6" />
-      <dependency id="dotnet4.7.1" version="4.7" />
+      <dependency id="dotnet4.7.2" version="4.7" />
+      <dependency id="dotnetfx" version="4.8" />
       <dependency id="filezilla" version="3.36" />
       <dependency id="googlechrome" version="69.0" />
       <dependency id="logexpert" version="1.6" />
+      <dependency id="portqry" version="2.0" />
       <dependency id="powershell" version="5.1" />
       <dependency id="putty" version="0.70" />
       <dependency id="sublimetext3" version="3.1" />
