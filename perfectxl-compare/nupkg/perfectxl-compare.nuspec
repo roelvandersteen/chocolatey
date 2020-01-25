@@ -24,7 +24,6 @@ This software is only available in a 64-bits version.</description>
   </metadata>
   <files>
     <file src="licenses\LICENSE.txt" target="" />
-    <file src="images\icon.png" target="images\" />
     <file src="tools\**" target="tools\" />
   </files>
 </package>
