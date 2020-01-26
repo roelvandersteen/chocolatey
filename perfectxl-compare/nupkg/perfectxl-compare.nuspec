@@ -21,7 +21,7 @@ The speed, accuracy, and completeness are largely due to a fundamental spreadshe
 
 This software is only available in a 64-bits version.</description>
     <releaseNotes>https://www.perfectxl.com/perfectxl-compare/release-notes</releaseNotes>
-    <packageSourceUrl>https://github.com/roelvandersteen/chocolatey/perfectxl-compare</packageSourceUrl>    
+    <packageSourceUrl>https://github.com/roelvandersteen/chocolatey/tree/master/perfectxl-compare</packageSourceUrl>    
   </metadata>
   <files>
     <file src="licenses\LICENSE.txt" target="" />
