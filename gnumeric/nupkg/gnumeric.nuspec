@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>gnumeric</id>
+    <version>1.12.17.20200531</version>
+    <owners>Roel van der Steen</owners>
+    <title>Gnumeric Spreadsheet</title>
+    <authors>Morten Welinder</authors>
+    <projectUrl>http://www.gnumeric.org/</projectUrl>
+    <licenseUrl>http://git.gnome.org/browse/gnumeric/tree/COPYING-gpl3</licenseUrl>
+    <copyright>GPLv2 or GPLv3</copyright>
+    <iconUrl>http://www.gnumeric.org/style/gnumeric52.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>gnumeric spreadsheet xls gnome</tags>
+    <summary>Free, fast, accurate – Pick Any Three!</summary>
+    <description>Gnumeric is an open-source spreadsheet program. Gnumeric is...
+
+Free: Gnumeric and its source code are available free of charge, licensed under the terms of the GNU General Public License version 2 or version 3.
+
+Fast: Gnumeric starts up quickly and handles large spreadsheets while remaining responsive.
+
+Accurate: A spreadsheet should calculate the right answer. Gnumeric's built-in functions and tools are accurate as several researchers have found.
+
+This package refers to the 32-bit installer. There is no 64-bit Windows version.</description>
+    <releaseNotes>https://gitlab.gnome.org/GNOME/gnumeric/-/blob/master/ChangeLog</releaseNotes>
+    <packageSourceUrl>https://github.com/roelvandersteen/chocolatey/tree/master/gnumeric</packageSourceUrl>
+  </metadata>
+</package>
